@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rj/codePlayground/RJSJPlayground/hw/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/hw.dir/midterm/10.cpp.o -c /home/rj/codePlayground/RJSJPlayground/hw/midterm/10.cpp",
+  "file": "/home/rj/codePlayground/RJSJPlayground/hw/midterm/10.cpp",
+  "output": "CMakeFiles/hw.dir/midterm/10.cpp.o"
+}
+]

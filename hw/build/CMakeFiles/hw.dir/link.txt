@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/hw.dir/link.d CMakeFiles/hw.dir/midterm/10.cpp.o -o hw
